@@ -1,5 +1,5 @@
 <!-- Profile Header -->
-![logo](https://i.ibb.co.com/yFgcLzgq/Screenshot-4.png)
+
 <h1 align="center">👋 Hi, I'm <span style="color:#4f46e5;">Shuvo</span></h1>
 <h3 align="center">💻 Front-End Developer | Crafting Modern Web Experiences</h3>
 
