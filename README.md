@@ -20,10 +20,7 @@ My goal is to create digital experiences that feel smooth, fast, and visually ap
 
 ---
 
-## 🌐 Connect With Me  
-[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tajul-islam-624003395/)
 
----
 
 ## 📂 Project Showcase  
 
@@ -41,9 +38,11 @@ My goal is to create digital experiences that feel smooth, fast, and visually ap
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tajulislamshuvo&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 ---
 
-## Links
-- Github: https://github.com/tajulislamshuvo
-- Linkedin: https://www.linkedin.com/in/tajul-islam-624003395/
+## 🌐 Connect With Me  
+<a href="https://www.linkedin.com/in/tajul-islam-624003395" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+<a href="mailto:tajulislamshuvo7@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
+---
 
 ## ✨ Thank You  
 Thanks for visiting my profile! 😊  
